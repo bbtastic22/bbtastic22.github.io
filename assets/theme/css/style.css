@@ -194,6 +194,30 @@ figure[mbr-media-size] {
 
 }
 
+.section1Title2 {
+  color: #29088A;
+  padding-top: 2px;
+  padding-bottom: : 2px;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  font-size: 2.8rem;
+
+}
+
+.redText {
+  color: #ff0000;
+}
+
+.redText2 {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+.boldText {
+  color: #3f6cb2;
+  font-weight: bold;
+}
+
 
 .card {
   background-color: transparent;
