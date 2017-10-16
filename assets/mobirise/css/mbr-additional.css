@@ -465,7 +465,7 @@ body {
   color: #23263d !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #ff0000!important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -1902,17 +1902,17 @@ body {
 }
 .cid-qxsOw8RXKP .mbr-text,
 .cid-qxsOw8RXKP blockquote {
-  color: #767676;
+  color: #ff0000;
 }
 .cid-qxsOw8RXKP .mbr-text DIV {
   text-align: center;
 }
 .cid-qxsOw8RXKP .mbr-text {
   text-align: center;
-  color: #cc2952;
+  color: #ff0000;
 }
 .cid-qxsOw8RXKP .mbr-text B {
-  color: #ff3366;
+  color: #ff0000;
 }
 .cid-qxsOwMIUqm {
   padding-top: 0px;
@@ -1921,11 +1921,11 @@ body {
 }
 .cid-qxsOwMIUqm .mbr-text,
 .cid-qxsOwMIUqm blockquote {
-  color: #767676;
+  color: #ff0000;
 }
 .cid-qxsOwMIUqm .mbr-text DIV {
   text-align: center;
-  color: #ff3366;
+  color: #ff0000;
 }
 .cid-qxsOxD9cff {
   padding-top: 0px;
