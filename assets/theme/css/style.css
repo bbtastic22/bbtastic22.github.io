@@ -213,6 +213,12 @@ figure[mbr-media-size] {
   font-weight: bold;
 }
 
+.redText3 {
+  color: #ff0000;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+
 .boldText {
   color: #3f6cb2;
   font-weight: bold;
